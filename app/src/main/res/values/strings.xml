@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelQu</string>
+    <string name="batal">batal</string>
+    <string name="keluar">keluar</string>
+    <string name="button_not_register">button_not_register</string>
+    <string name="after_register">after register</string>
+</resources>
